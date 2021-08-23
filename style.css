@@ -91,6 +91,11 @@ button {
   margin: 0 auto;
 }
 
+button:hover {
+  color: var(--clr-bright-blue);
+  background-color: var(--clr-pale-blue);
+}
+
 .btn {
   display: block;
   cursor: pointer;
@@ -99,6 +104,10 @@ button {
   font-weight: 700;
   padding-top: 2rem;
   margin: 0 auto;
+}
+
+.btn:hover {
+  color: var(--clr-dark-blue);
 }
 
 .attribution {
