@@ -122,7 +122,6 @@ button:hover {
   .card {
     display: flex;
     flex-direction: column;
-    border: 1px red solid;
     justify-content: center;
     width: 30%;
     padding-bottom: 5rem;
